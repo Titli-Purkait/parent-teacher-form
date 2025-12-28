@@ -20,4 +20,4 @@ HTML5
 
 CSS3 (including pseudo-elements and custom form styling)
 
-Live Demo: [Link if hosted on GitHub Pages]
+Live Demo: [https://titli-purkait.github.io/parent-teacher-form/]
